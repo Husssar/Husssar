@@ -3,10 +3,11 @@
 . Internet of things
 . Automation
 . simple scripts, i'm not a frontend guru.
+. ops.
 - 🌱 I’m currently learning ...
-. ai, python, shell
+. ai, python, shell, ops
 - 💞️ I’m looking to collaborate on ...
-. everything that seems hard to solve :)
+. everything that seems hard to solve. I'm a chamelont - I adapt to the environment. :)
 - 📫 How to reach me ...
 . husssar at gmail dot com
 
